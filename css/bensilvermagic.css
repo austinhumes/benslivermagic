@@ -1,0 +1,313 @@
+header, nav, section, footer {
+	display: block;
+}
+a, a:hover, a:visited {	
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+}
+img {
+	border: none;
+}
+#navbar, 
+#navbar2 {
+	width: 919px;
+	margin: 0 auto;
+}
+header, #content, footer, #footerInner {
+	width: 805px;
+	margin: auto;
+}
+body { 
+	background: url("/images/backgrounds/background_lgrey166.jpg") repeat scroll 0 0 transparent; 
+	color: #000;
+	font-family: RingbearerMedium, serif, helvetica,lucida Grande,Verdana,Arial;
+	/*font-family: 'IM Fell English SC', serif, helvetica,lucida Grande,Verdana,Arial;*/
+	font-size: 1em; 
+	margin: 0;
+	padding: 0;
+}
+header {
+	text-align: center;
+}
+#title {
+	display: none;
+	text-decoration: none;
+	font-size: 6em;
+	line-height: 1.2em;
+	text-align: center;
+	margin-top: 15px;
+	text-shadow: 1px 1px 4px #CCC, -1px -1px 4px #000;
+}
+#navbar, #navbar2 { 
+	margin-bottom: 20px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+#navbar { 
+	margin-bottom: 10px;
+}
+#navbar ul, #navbar2 ul {
+	margin: 0;
+	padding: 0;
+	display: table;
+	width: 100%;
+}
+#navbar li, #navbar2 li {
+	display: table-cell;
+	text-align: center;
+}
+#navbar li a, #navbar li a:visited, 
+#navbar2 li a, #navbar2 li a:visited {
+	color: #FFF;
+	/*padding: 5px 56px;*/
+	text-decoration: none;
+	line-height: 45px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+#navbar li a:hover, 
+#navbar2 li a:hover {
+	/*color: #CCC;*/
+	text-shadow: 1px 1px 4px #CCC, -1px -1px 4px #000;
+}
+#navbar li a.last, 
+#navbar2 li a.last { 
+	border-right: none;
+}
+#content {
+	margin-top: 75px;
+}
+.container {
+  width: 100%;
+  float: left;
+}
+.width33 {
+	width: 33.3%;
+	float: left;
+}
+.width50 {
+	width: 50%;
+	float: left;
+}
+.white, a.white, a.white:visited {
+	color: #FFF;
+}
+.center {
+	text-align: center;
+}
+.marginT15 {
+	margin-top: 15px;
+}
+.marginT25 {
+	margin-top: 25px;
+}
+.marginB15 {
+	margin-bottom: 15px;
+}
+.marginB25 {
+	margin-bottom: 25px;
+}
+.marginTB10 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.pad10 {
+	padding: 10px;
+}
+.border10 {
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.whiteBox {
+	background: #FFF;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+h2 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.firstP {
+	text-indent: 25px;
+}
+.blackShine {
+	background: #3D3C3C;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#3D3C3C), color-stop(50%, #3D3C3C), color-stop(50%, #000000), to(#000000));
+	background: -moz-linear-gradient(top, #3D3C3C 0%, #3D3C3C 50%, #000000 50%, #000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3D3C3C', endColorstr='#000000');
+}
+footer {
+	height: 100px;
+	padding-top: 15px;
+}
+#footerInner {
+	
+}
+#social_networking {
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.social_networking_icon {
+	display: block;
+	width: 30px;
+	height: 30px;
+}
+#facebook_icon {
+	background: url('../images/facebook.png') no-repeat;
+}
+#twitter_icon {
+	background: url('../images/twitter.png') no-repeat;
+}
+.footer_copyright {
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.overflowHidden {
+	overflow: hidden;
+}
+.container {
+	width: 100%;
+	float: left;
+}
+.floatL {
+	float: left;
+}
+.floatR {
+	float: right;
+}
+.left {
+	text-align: left;
+}
+.right {
+	text-align: right;
+}
+.fontSize12 {
+	font-size: 1.2em;
+}
+.fontSize15 {
+	font-size: 1.5em;
+}
+.fontSize2 {
+	font-size: 2em;
+}
+.center {
+	text-align: center;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+iframe {
+	display: block;
+	margin: 0 auto 50px;
+	-moz-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;;
+	-webkit-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	border: 1px solid #AAAAAA;
+}
+.separator {
+	border-top: 1px solid;
+}
+.mediaBorder {
+	-moz-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;;
+	-webkit-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	border: 1px solid #AAAAAA;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+/********************************
+** Homepage
+********************************/
+#gallery {
+	-moz-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;;
+	-webkit-box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	box-shadow: 1px 1px 3px #AAAAAA, -1px -1px 3px #AAAAAA;
+	border: 1px solid #AAAAAA;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	padding: 0;
+	margin: 0 auto 20px;
+	overflow:hidden;
+	width: 600px;
+	height: 330px;
+}
+
+#slides {
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+
+.slide{
+	float:left;
+}
+
+.quote {
+	border: 1px solid #CCC; 
+	padding: 10px; 
+	border-radius: 10px; 
+	box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+.companyLogo { 
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+} 
+/***************************************
+** Contact Page
+***************************************/
+#contactForm {
+	width: 270px; 
+	float: right; 
+	text-align: center;
+	color: #FFF;
+}
+#contactForm label {
+	width: 37%;
+	float: left;
+	padding-right: 12px;
+	text-align: right;
+}
+#contactForm input, #contactForm textarea {
+	float: left;
+	margin-bottom: 10px;
+	width: 150px;
+}
+#contactForm textarea {
+	height: 75px;
+}
+#contactForm input[type="submit"] {
+	float: right;
+	width: 70px;
+	border: 0;
+	padding: 5px;
+	color: #FFF;
+	font-family: RingbearerMedium;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#contactForm input[type="submit"]:hover {
+	text-shadow: 1px 1px 4px #CCC, -1px -1px 4px #000;
+}
+#formSubmitted {
+	font-weight: bold; 
+	color: green; 
+	text-align: left; 
+	margin-bottom: 20px;
+}
+.highlight {
+	background: #FC858F;
+}

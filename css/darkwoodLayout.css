@@ -1,0 +1,21 @@
+header, #wrapper, #content, footer, #footerInner {
+	width: 763px;
+	margin: auto;
+}
+#navbar {
+	width: 919px;
+	margin: 0 auto;
+}
+#title {
+	font-size: 5em;
+	color: #FFF;
+}
+#wrapper {
+	background: url('/images/backgrounds/background_blackwood.jpg') repeat;
+	padding-top: 20px;
+	overflow: hidden;
+}
+#content {
+	margin-top: 55px;
+	padding-bottom: 1px;
+}

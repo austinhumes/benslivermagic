@@ -1,0 +1,24 @@
+Options +FollowSymlinks
+
+# Remove .php file extension
+# From http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/
+Options -MultiViews
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+#addhandler x-httpd-php5 .php5
+#addhandler x-httpd-php5 .php
+
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/html "access plus 2 days"
+ExpiresByType image/gif "access plus 60 days"
+ExpiresByType image/jpg "access plus 60 days"
+ExpiresByType image/png "access plus 60 days"
+ExpiresByType application/x-javascript "access plus 60 days"
+ExpiresByType text/css "access plus 60 days"
+ExpiresByType image/x-icon "access plus 360 days"
+</IfModule>
