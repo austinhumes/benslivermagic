@@ -2,7 +2,7 @@
 
 	<div class="container center marginT25"><img src="images/wine.jpg" width="250" class="mediaBorder"/></div>
 	
-	<h2 class="center container">Ben Silver is also a Sommelier and offers a Wine Tasting option to your Next Event.</h2>
+	<h2 class="center container">Ben Silver is also a Certified Sommelier from the Court of Master Sommeliers and offers a Wine Tasting option to your Next Event.</h2>
 	
 	<p class="italic">
 		A sommelier, or wine steward, is a trained and knowledgeable wine professional, normally working in fine restaurants, who specializes in all aspects of wine service as well as wine and food pairing. The role is much more specialized and informed than that of a wine waiter: In fine dining today the role is strategically on a par with that of the executive chef or chef de cuisine.

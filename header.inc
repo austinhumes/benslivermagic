@@ -9,8 +9,9 @@
   		<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
   		<link rel="stylesheet" href="css/bensilvermagic.css" type="text/css">
   		<link rel="stylesheet" href="css/ringbearerFont.css" type="text/css">
+  		<link rel="stylesheet" href="css/quoteRotator.css" type="text/css">
   		
-  		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   		<script type="text/javascript" src="/js/bensilvermagic.js"></script>
   		  		
   		<!--[if lte IE 8]>
