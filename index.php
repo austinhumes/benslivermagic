@@ -15,11 +15,11 @@
 	</section>
 	 -->
 
-	<!-- <img src="images/gallery/spiralCardsWithHatBW.jpg" width="600"
-			style="margin: 0 auto 20px; width: 600px; display: block;" /> -->
+	<img src="images/gallery/spiralCardsWithHatBW.jpg" width="600" class="mediaBorder"
+			style="margin: 0 auto 20px; width: 600px; display: block;" />
 	
 	<div class="container homepageFeature">
-		<img src="images/gallery/spiralCardsWithHatBW.jpg" width="402" style="margin: 0 auto 20px; width: 402px; display: block; float: left;" />
+		<!--<img src="images/gallery/spiralCardsWithHatBW.jpg" width="402" style="margin: 0 auto 20px; width: 402px; display: block; float: left;" />-->
 		<div id="cbp-qtrotator" class="cbp-qtrotator floatR">
 	
 			<div class="cbp-qtcontent current">
@@ -44,7 +44,7 @@
 			</div>
 			<span class="cbp-qtprogress"></span>
 		</div>
-	</div>
+	</div> 
 	
 	<iframe
 		width="560" height="315" src="http://www.youtube.com/embed/B_8G6AWL8mU"

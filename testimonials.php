@@ -96,6 +96,112 @@
 		Linebacker<br/>
 		San Diego Chargers 
 	</div>
+	
+	<div class="quote marginB25">
+		Dear Ben,<br/><br/>
+
+		I just wanted to thank you on behalf of HearAid Foundation for taking our annual gala and making it all the 
+		
+		more special with your incredible talent as a magician.<br/><br/>
+		
+		 I have to admit initially when I heard we were getting a magician I was a bit ambivalent. I thought it was 
+		
+		going to be the traditional magic that I'd seen a million times. BOY WAS I WRONG! Your talent and ability 
+		
+		to engage a crowd going from table to table was so impressive. <br/><br/>
+		
+		You left us all believing that you have supernatural powers. Seriously! None of us wanted you to stop and 
+		
+		I only wish we had you perform more! Your tricks were incredible and mesmerizing!<br/><br/>
+		
+		Thank you again for such a memorable night and looking forward to following you and your career in the 
+		
+		future!<br/><br/>
+		
+		Best, <br/>
+		
+		Tanya Penn, HearAid Foundation
+	</div>
+	
+	<div class="quote marginB25">
+		Hi Ben,<br/><br/>
+ 
+		I hope you are doing well! I wanted to send you a huge thank you for coming to our Doggie Dash and 
+		
+		wow-ing our participants with your magical skills. Your Magic is Amazing!!! It was a huge success and 
+		
+		with the combined money raised and raffle intake, we raised over $6,000 to help pets in need. So thank 
+		
+		you again for your participation as well as your donation to our raffle!<br/><br/>
+		
+		 
+		
+		Athena Davis<br/>
+		
+		PR & Events Manager<br/>
+		
+		FACE Foundation
+	</div>
+	
+	<div class="quote marginB25">
+		Ben,<br/><br/>
+
+		It was so great meeting you and thank you for coming to the event and entertaining everyone. You are 
+		
+		amazingly talented.<br/><br/>
+		
+		Amanda McPhail<br/>
+		
+		Creative Affairs Inc.
+	</div>
+	
+	<div class="quote marginB25">
+		Ben,<br/><br/>
+
+		I will never forget you!  You performed for my girlfriends and I at the Sedona Enchantment Resort.You
+
+		were as good as David Copperfield....in my opinion!  Amazing!<br/><br/>
+		
+		Stella Collins<br/>
+		
+		Sprector &amp; Collins LLC
+	</div>
+	
+	<div class="quote marginB25">
+		"Wow! That was Amazing, What just Happened?"<br/><br/>
+		
+		Jane Lynch<br/>
+		
+		Actress, Glee NBC
+	</div>
+	
+	<div class="quote marginB25">
+		Hi Ben,<br/><br/>
+
+		Thank you for the nice surprise, I have always been amazed how magic and illusions work.  I love magic 
+
+		more than anything else.  It was my best birthday ever.  Thank you for making it happen.<br/><br/>
+		
+		Homa Asef<br/>
+		
+		Asef Properties
+	</div>
+	
+	<div class="quote marginB25">
+		"I am thrilled to have found this company. The mentalist, Ben Silver, was amazing, and turned a great event into an 
+
+		outstanding event. SGM Events and Freddie made this an easy and pleasant experience. I would recommend this 
+
+		company to any event planner."<br/><br/>
+		
+		Tina S., Rafter, Inc.
+	</div>
+	
+	<div class="quote marginB25">
+		"Ben [Silver] was amazing! Thank you for suggesting we add him to our talent for the evening."<br/><br/>
+		
+		Michelle M., Entreprenuers Organization
+	</div>
 
 <?php include("footer.inc"); ?> 
 
